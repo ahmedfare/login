@@ -40,6 +40,8 @@ img {
   border-radius: 20px;
 }
 a {
+    margin-top: -15px;
+
   color: black;
 }
 .login {
@@ -49,7 +51,7 @@ a {
   text-align: center;
   border-radius: 10px;
   padding: 12px 5px;
-  margin-bottom: 10px;
+
   transition: 0.3s;
   border: transparent;
 }
